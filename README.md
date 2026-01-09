@@ -28,7 +28,12 @@ This project focuses on **interaction design, motion, and visual polish**, showc
 - Custom animation logic (no heavy animation libraries)
 
 ---
+## 🎥 Checkout Animation Demo
 
+[![Checkout Animation Preview](https://github.com/DevByJash/Checkout-Page/blob/main/assets/Checkout-Mobile-View.gif)](https://github.com/DevByJash/Checkout-Page/blob/main/assets/Checkout-Mobile-View.mp4)
+
+> Click the animation above to watch the full video.
+---
 ## 👨‍💻 Developer
 
 **DevByJash**
